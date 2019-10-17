@@ -1,6 +1,8 @@
 # undesign
 A list of free design resources
 
+> Although most of these assets are provided for free, strive to give attribution to the original author.
+
 ---
 
 ## Illustrations
