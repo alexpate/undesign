@@ -1,5 +1,5 @@
 # undesign
-A list of quality design resources
+A list of free design resources
 
 ---
 
